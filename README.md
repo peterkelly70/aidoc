@@ -32,6 +32,7 @@ Make sure to install these dependencies before running the script.
 ## Environment Variables
 
 The script requires an OpenAI API key, which should be stored as an environment variable named `OPENAI_API_KEY`.
+This should be stored in .env
 
 ## Usage
 
